@@ -33,6 +33,8 @@ and then
 
 'flask run'
 
+than go to localhost:3000
+
 
 Main files I wrote code in are
 
